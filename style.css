@@ -5,11 +5,14 @@ img {
 }
 
 body{
-    background-color: rgb(55, 168, 243)
+    background-image: url(assets/mc\ kevin\ wallpaper\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 
 footer {
-color: ;
+color: white;
     text-align: center;
 }
