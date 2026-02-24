@@ -4,19 +4,27 @@ img {
     border-radius: 20px;
 }
 
+main a{
+    color: violet;
+}
+
+h3 {
+    color:black;
+
+}
+
 body{
-    background-image: url(assets/mc\ kevin\ wallpaper\ 4.png);
+    background-image: url(assets/lightblue\ wallpaper.png);
     background-repeat: no-repeat;
     background-size: cover;
-    font-family:cursive;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h1 {
-    color: white;
     text-align: center;
 }
 
 footer {
     font-family:'Times New Roman', Times, serif ;
-color: white;
+color:black;
     text-align: center;
 }
